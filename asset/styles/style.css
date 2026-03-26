@@ -39,6 +39,10 @@ background-color: #9f81cf;
 background-color: #A6C355;
 color: #fff;
 }
+ .btn4 {
+    background-color: #C35555;
+    color: #000000;
+ }
 
 .btn {
     display: flex;
@@ -46,3 +50,4 @@ color: #fff;
     flex-direction: column;
     gap: 3rem;
 }
+ 
