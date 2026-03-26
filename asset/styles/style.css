@@ -6,9 +6,43 @@ body {
     text-align: center;
     align-items: center;
     height: 80vh;
-    background-color: #756969;
+    background-color: #000000;
     }
 
     *{
         box-sizing: border-box;
     }
+
+button{
+           
+        color: #fff;
+        border: none;
+        cursor: pointer;
+        text-align: center;
+        padding: 20px;
+        min-width: 30px;
+        border-radius: 80px;
+        width: 300px;
+    }
+
+.btn1 {
+background-color: #C35555;
+color: #fff
+}
+
+    .btn2 {
+background-color: #9f81cf;
+    color: #fff;
+}
+
+ .btn3 {
+background-color: #A6C355;
+color: #fff;
+}
+
+.btn {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    gap: 3rem;
+}
