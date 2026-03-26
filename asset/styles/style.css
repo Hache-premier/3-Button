@@ -3,18 +3,17 @@ body {
   flex-direction: column;
   justify-content: center;
   gap: 20px;
-  text-align: center; 
+  text-align: center;
   align-items: center;
   height: 80vh;
-  background-color: #000000;
+  background-color: #a75050;
 }
 
-* { 
+* {
   box-sizing: border-box;
 }
 
-button {
-           
+button {        
   color: #fff;
   border: none;
   cursor: pointer;
@@ -26,8 +25,8 @@ button {
 }
 
 .btn1 {
-background-color: #C35555;
-color: #fff
+  background-color: #c35555;
+  color: #fff
 }
 
 .btn2 {
@@ -36,12 +35,12 @@ color: #fff
 }
 
 .btn3 {
-  background-color: #A6C355;
+  background-color: #a6C355;
   color: #fff;
 }
 
 .btn4 {
-  background-color: #C35555;
+  background-color: #c35555;
   color: #000000;
 }
 
@@ -51,4 +50,3 @@ color: #fff
   flex-direction: column;
   gap: 3rem;
 }
- 
